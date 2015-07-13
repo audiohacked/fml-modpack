@@ -2,7 +2,7 @@
 layout: default
 title: Minecraft Forge Modpack
 ---
-Mod Pack Version: 0.0.1
+Mod Pack Version: 1.7.10-0.0.1
 
 |---
 | Mod | Author | Version
